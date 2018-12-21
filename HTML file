@@ -1,0 +1,63 @@
+<link href='https://fonts.googleapis.com/css?family=Aclonica' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Advent Pro' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Almendra' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Arbutus' rel='stylesheet'>
+<ul >
+ <li><a href="#p1">HOME</a></li>
+  <li> <a href="#p2">ABOUT</a></li>
+  <li> <a href="#p3">CONTRIBUTOR</a></li>
+  <li><a href="#tribute-info">FEATURES</a></li>
+  
+</ul>
+
+<div id="main">
+<div class="one" id="p1">
+  <h1 class="align" id="title">CHOCO | BROBOT</h1><br>
+  <h3 class="alig">Os and Chatbot .</h3>
+ <img class="float-right" src="https://pbs.twimg.com/media/DfFv2lDUwAAUJuX.png" alt="chatbot-logo">
+</div>
+<div class="two" id="p2">
+  <h2 class="ab">What is a Choco?</h2><br>
+  <h4 class="cho">The CHOCO is a software operating system for the mobile phone  on Linux kernel. <br>The operating systems includes Apps, Framework, Libraries, the Linux kernel.<br> Our proposed software can be enhanced to support advanced quick setting that <br>have faster accessing speed and provides interface customization. To ensure high<br> class developed environment, multitasking ,proper memory allocation.<br><br><br>This sounds insanely boring, but it's a really important update. To date,<br> Android apps have asked you during their install process for permission to access<br> everything and anything that they might need: things like your camera, location,<br> message history, and so on. Often enough, you'll see all sorts of things that it seems <br>like an app shouldn't need access to, but you don't have the option of saying no to<br> just one item or asking what anything is used for.<br><br><br>
+   <img class="sma" src="https://pbs.twimg.com/media/DfGA9NQUwAM48Sv.jpg" alt="A screenshot of our choco" >
+    <h2 class="ab">What is Brobot?</h2><br>
+    <h4 class="cho">BROBOT  or conversational interfaces present a new way for individuals to interact <br>with computer systems. Traditionally, to get a question answered by a software<br> program involved using a search engine, or filling out a form. A chat bot is a software<br> system, which can interact or "chat" with a human user in natural language such as<br> English.Methods to train and adapt a chat bot to a specific user's language is designed.<br><br><br>The chat-bot can be integrated with critical systems and orchestrate work flows inside <br>and outside of the CRM. It can handle real-time action as routine as a password change,<br> all the way through a complex 15-step work flow spanning 4 different systems.
+The chat-bot<br> can reach, consume, and process vast amounts of data– both structured and unstructured–to<br> surface insights from any source
+    </h4><div id="img-div"><img class="smal" id="img" src="https://pbs.twimg.com/media/DegvTw3U0AA52Gu.jpg" alt="our chatbot's icon"><div id="img-caption">The chatbot that we developed.</div></div>
+</div>
+  <div class="three" id="p3">
+    <br><br><h2 class="cont">CONTRIBUTORS</h2>
+   
+  <div ><img class="i1 " src="https://pbs.twimg.com/media/DeeAs22UwAIQrzy.jpg" alt="Rashika"><h4 class="why">Rashika</h4><h5 class="ra"> I'm a Front-end-Developer<br> who codes.I design & build<br>user-interfaces.</h5>
+    <h4></h4>
+    </div>
+    
+      <div ><img class="i2"src="https://scontent.fagr1-1.fna.fbcdn.net/v/t1.0-9/28782818_1613273228764346_9055127335962935296_n.jpg?_nc_cat=0&oh=6fc789b29d45ddb8ef5169f0b3825f6e&oe=5BAD5183" alt="Rithika"><h4 class="hy">Rithika</h4>
+        <h5 class="ri">I'm committed to UI/UX .<br> I develop apps .</h5>
+    </div>
+      <div ><img class="i3"src="https://scontent.fagr1-1.fna.fbcdn.net/v/t1.0-9/18881904_842635982541799_6201229865013109555_n.jpg?_nc_cat=0&oh=a8af333268c5dcb2fc00d8f534bb7611&oe=5BB14604" alt="santhosh"><h4 class="wy">Shanmugam</h4>
+        <h5 class="sh"> I'm a Game-Developer<br> and a Front-end-developer</h5>
+    </div>
+    
+  </div>
+  <div class="four" id="tribute-info">
+    <h2 CLASS="fe">FEATURES </h2>
+    <img class="sm" src="https://image.shutterstock.com/image-vector/user-experience-phone-tilt-260nw-777665998.jpg" alt="tilt"><br><br>
+    <h4 class="f1">Our brobot ensures security and maintains privacy.<br> Once you tilt the phone all your conversation gets deleted.<br>
+We are working on implementing this feature in a messaging app .
+</h4><br>
+    <img class="sm"src="data:image/png;base64,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" alt="voice-recognition"><h4 class="f1">our brobot can be used by visually impaired persons since it<br> contains voice recognition technique.
+In this way we cover <br>a broad range of users. It also contains NLP recognition and<br> it can understand more than
+7 languages.</h4>
+    <img class="sm1" src="http://mrteckie.com/wp-content/uploads/2018/01/maxresdefault.jpg" alt="camera"><br><br><br>
+    <h4 class="f12">Our choco can capture images in potrait mode which is<br> only possible in dual camera but  we have implemented <br>
+this feature in moto g2 mobile.</h4><br><br>
+    <img class="sm" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf5iVLYvJu4VSl5ZEv1t6Noj30GpSP8F6rY0jzgjQvsZWhmLNwnA" alt="gesture-control">
+    
+    <h4 class="f1">Our choco contains some gesture control techniques such as it<br> enters sleep mode when the screen is tapped twice
+and when the <br>status bar is tapped the flash light turns on.</h4>
+  </div>
+  <footer id="social-footer"> &copy copyrights reserved.All rights Rashika 2018.
+  <h6>If you have time develop an OS:<a href="https://forum.xda-developers.com/chef-central/android/guide-android-rom-development-t2814763" target="_blank"> FORUM DEVELOPERS</a><H6>
+    </footer>
+  </div>
