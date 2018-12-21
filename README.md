@@ -1,2 +1,2 @@
 # Web-page-for-mini-project
-source code in html and css
+A web page which was created to publish our creation of choco(OS) and Brobot(chatbot)
